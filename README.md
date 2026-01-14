@@ -1,5 +1,5 @@
 # test-github-secret-scanning
 
-a key: phx_QuDlUg9guiBzaFFjbybkys2OPf3Uf3uFjE0fyVcfNst4FXO
+a key: phx_kV4VcIRzgG3886b4X7scwJ8oR0f8xCGBEPJeD1MK3vRlSJw
 another: phs_uWTIhHykh1NNAozF55c2XkbHivZu9uwqIvKeZ8XuvveUio6
 
