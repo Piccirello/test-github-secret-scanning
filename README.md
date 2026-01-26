@@ -1,4 +1,4 @@
 # test-github-secret-scanning
 
-a key: phx_4gYlQXCbhoz5ml6iF2bD6Hn4B2L8Zc276X6sJmQMH5rFrWM
+a key: phx_hU8DtK0x5srtRXWcBNkVBjCCyqA1mEbA8X6sdqEKBejeVFR
 
