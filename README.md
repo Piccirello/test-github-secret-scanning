@@ -1,4 +1,4 @@
 # test-github-secret-scanning
 
-a key: pha_83oG3sjDSFVgjhdYHDq7AOnPn8DO5V68v4gjkPyiSYO
+a key: phs_YQMaDhrdN6GAaCgWMonBxPAqEmrTvXDuqmBnot5wUVrym8M4
 
